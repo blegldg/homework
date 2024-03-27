@@ -1,0 +1,25 @@
+#+TITLE: Reddit A/B Testing and Experiments Analysis
+#+AUTHOR: Yoran Malik
+#+STARTUP: showeverything
+#+OPTIONS: toc:2
+
+* TABLE OF CONTENTS :toc:
+- [[#DESCRIPTION:][DESCRIPTION]]
+- [[#USAGE:][USAGE]]
+  - [[#Apology][Apology]]
+  - [[#Try For Yourself][Try For Yourself]]
+
+* DESCRIPTION
+This repository contains extracted and activated A/B testing and experiments from Reddit. 
+The purpose of this repository is to provide insights into various experiments and A/B tests run on Reddit's platform.
+
+* Usage
+
+** Apology
+I'm really sorry for the outdated state of this repo. Kinda forgot about this repo, and I haven't had a chance to keep things up to date. 
+Also, I realize I forgot to include the APK - my bad!
+
+** Try For Yourself
+While the repo might be a bit dusty, the code's all there for you to try out yourselves.
+Feel free to dive in, experiment, and let me know how it goes.
+
