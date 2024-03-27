@@ -4,8 +4,8 @@
 #+OPTIONS: toc:2
 
 * TABLE OF CONTENTS :toc:
-- [[#DESCRIPTION:][DESCRIPTION]]
-- [[#USAGE:][USAGE]]
+- [[#DESCRIPTION][DESCRIPTION]]
+- [[#USAGE][USAGE]]
   - [[#Apology][Apology]]
   - [[#Try For Yourself][Try For Yourself]]
 
