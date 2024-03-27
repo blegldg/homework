@@ -5,7 +5,7 @@
 
 *** TABLE OF CONTENTS :toc:
 - [[#DESCRIPTION][DESCRIPTION]]
-- [[#USAGE][USAGE]]
+- [[#NOTES][NOTES]]
   - [[#Apology][Apology]]
   - [[#Try For Yourself][Try For Yourself]]
 
@@ -13,7 +13,7 @@
 This repository contains extracted and activated A/B testing and experiments from Reddit. 
 The purpose of this repository is to provide insights into various experiments and A/B tests run on Reddit's platform.
 
-* Usage
+* NOTES
 
 ** Apology
 I'm really sorry for the outdated state of this repo. Kinda forgot about it, and I haven't had a chance to keep things up to date. 
