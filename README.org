@@ -16,7 +16,7 @@ The purpose of this repository is to provide insights into various experiments a
 * Usage
 
 ** Apology
-I'm really sorry for the outdated state of this repo. Kinda forgot about this repo, and I haven't had a chance to keep things up to date. 
+I'm really sorry for the outdated state of this repo. Kinda forgot about it, and I haven't had a chance to keep things up to date. 
 Also, I realize I forgot to include the APK - my bad!
 
 ** Try For Yourself
